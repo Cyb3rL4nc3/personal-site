@@ -1,0 +1,16 @@
+[
+  {
+    "id": "first-post",
+    "title": "My First Post",
+    "date": "2026-01-12",
+    "tags": ["Web Dev"],
+    "excerpt": "A short preview of what this post is about."
+  },
+  {
+    "id": "cyberpunk-ui",
+    "title": "Designing Cyberpunk UI",
+    "date": "2026-01-10",
+    "tags": ["Design", "Aesthetic"],
+    "excerpt": "Exploring neon, glitch, and futuristic interface ideas."
+  }
+]
